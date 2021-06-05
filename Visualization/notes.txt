@@ -1,0 +1,2 @@
+Use OASIS-3 data, look in the freesurfer analysis for brain volume
+Could maybe consider gray and white matter vs dementia/age
