@@ -127,4 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-Visualization/OASIS/oasis-scripts/
+
+# My gitignores
+Data/
