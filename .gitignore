@@ -131,3 +131,5 @@ dmypy.json
 # My gitignores
 Data/
 SVM/Manual/test_notebooks
+CNN/npy_files/
+*.npy
