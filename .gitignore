@@ -132,4 +132,5 @@ dmypy.json
 Data/
 SVM/Manual/test_notebooks
 CNN/npy_files/
-*.npy
+CNN/logs/
+CNN/saved_model/
