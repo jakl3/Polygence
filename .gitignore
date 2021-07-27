@@ -134,3 +134,4 @@ SVM/Manual/test_notebooks
 CNN/npy_files/
 CNN/logs/
 CNN/saved_model/
+CNN/checkpoints/
