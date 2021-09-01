@@ -136,6 +136,9 @@ CNN/logs/
 CNN/saved_model/
 CNN/checkpoints/
 .ipynb_checkpoints/
-transfer/Alzheimer-ResNets/Numpy*
-transfer/Alzheimer-ResNets/*results*
-transfer/Alzheimer-ResNets/labels.csv
+transfer/*
+CNN/Alzheimer-ResNets/
+CNN/.idea/
+*.pth
+CNN/runs/
+CNN/trainedmodels/
